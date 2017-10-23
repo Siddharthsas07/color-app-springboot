@@ -9,11 +9,12 @@ public class Colors {
 	public Colors() {
 		colors = new ArrayList<>();
 		colors.add("Red");
-		colors.add("Grenn");
+		colors.add("Green");
 		colors.add("Orange");
 		colors.add("Pink");
 		colors.add("Brown");
 		colors.add("Yellow");
 		colors.add("Blue");
+		colors.add("Magenta");
 	}
 }
